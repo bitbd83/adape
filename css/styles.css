@@ -700,6 +700,12 @@
   position: static;
 }
 
+.social_footer.taptools {
+  background-image: url('../images/taptools.webp');
+  background-size: 80%;
+  position: static;
+}
+
 .social_footer.bullx {
   background-image: url('../images/bullx.svg');
   background-size: 110%;
@@ -776,6 +782,11 @@
   background-size: 100%;
 }
 
+.copy.taptools {
+  background-image: url('../images/taptools.webp');
+  background-size: 80%;
+}
+
 .hero_tg {
   background-color: #e29555;
   background-image: url('../images/telegram.svg');
@@ -829,6 +840,12 @@
   background-size: 100%;
 }
 
+.hero_tg.taptools {
+  background-image: url('../images/taptools.webp');
+  background-size: 80%;
+}
+
+
 .hero_x {
   background-color: #e29555;
   background-image: url('../images/twitter.svg');
@@ -880,6 +897,11 @@
 .hero_x.splash {
   background-image: url('../images/splash.svg');
   background-size: 100%;
+}
+
+.hero_x.taptools {
+  background-image: url('../images/taptools.webp');
+  background-size: 80%;
 }
 
 .ca_mobile {
